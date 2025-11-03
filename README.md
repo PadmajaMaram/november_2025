@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PadmajaMaram/november_2025/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## String
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
