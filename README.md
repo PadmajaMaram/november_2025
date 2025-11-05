@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## String
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PadmajaMaram/november_2025/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
