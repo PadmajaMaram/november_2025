@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PadmajaMaram/november_2025/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
