@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
@@ -93,8 +94,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/PadmajaMaram/november_2025/tree/master/0051-n-queens) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
