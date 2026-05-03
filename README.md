@@ -73,20 +73,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PadmajaMaram/november_2025/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PadmajaMaram/november_2025/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PadmajaMaram/november_2025/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PadmajaMaram/november_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/PadmajaMaram/november_2025/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PadmajaMaram/november_2025/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PadmajaMaram/november_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/PadmajaMaram/november_2025/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PadmajaMaram/november_2025/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PadmajaMaram/november_2025/tree/master/0199-binary-tree-right-side-view) |
 ## Union Find
 |  |
