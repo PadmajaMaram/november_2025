@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PadmajaMaram/november_2025/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## String
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PadmajaMaram/november_2025/tree/master/2181-merge-nodes-in-between-zeros) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
