@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3903-smallest-stable-index-i](https://github.com/PadmajaMaram/november_2025/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3903-smallest-stable-index-i](https://github.com/PadmajaMaram/november_2025/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
