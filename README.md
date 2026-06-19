@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PadmajaMaram/november_2025/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PadmajaMaram/november_2025/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/PadmajaMaram/november_2025/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PadmajaMaram/november_2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PadmajaMaram/november_2025/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/PadmajaMaram/november_2025/tree/master/0051-n-queens) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0229-majority-element-ii) |
