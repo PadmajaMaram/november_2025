@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PadmajaMaram/november_2025/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PadmajaMaram/november_2025/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PadmajaMaram/november_2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PadmajaMaram/november_2025/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/PadmajaMaram/november_2025/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/PadmajaMaram/november_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PadmajaMaram/november_2025/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/PadmajaMaram/november_2025/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
