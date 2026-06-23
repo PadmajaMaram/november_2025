@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PadmajaMaram/november_2025/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PadmajaMaram/november_2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PadmajaMaram/november_2025/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PadmajaMaram/november_2025/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PadmajaMaram/november_2025/tree/master/0876-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PadmajaMaram/november_2025/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PadmajaMaram/november_2025/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0300-longest-increasing-subsequence) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PadmajaMaram/november_2025/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/PadmajaMaram/november_2025/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/PadmajaMaram/november_2025/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
