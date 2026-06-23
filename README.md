@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PadmajaMaram/november_2025/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/PadmajaMaram/november_2025/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/PadmajaMaram/november_2025/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PadmajaMaram/november_2025/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PadmajaMaram/november_2025/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Prefix Sum
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3903-smallest-stable-index-i](https://github.com/PadmajaMaram/november_2025/tree/master/3903-smallest-stable-index-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PadmajaMaram/november_2025/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
