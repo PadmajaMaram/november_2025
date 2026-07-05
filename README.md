@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2706-buy-two-chocolates](https://github.com/PadmajaMaram/november_2025/tree/master/2706-buy-two-chocolates) |
+| [3866-first-unique-even-element](https://github.com/PadmajaMaram/november_2025/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/PadmajaMaram/november_2025/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PadmajaMaram/november_2025/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0594-longest-harmonious-subsequence) |
+| [3866-first-unique-even-element](https://github.com/PadmajaMaram/november_2025/tree/master/3866-first-unique-even-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PadmajaMaram/november_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0594-longest-harmonious-subsequence) |
+| [3866-first-unique-even-element](https://github.com/PadmajaMaram/november_2025/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
