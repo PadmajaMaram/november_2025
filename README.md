@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PadmajaMaram/november_2025/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/PadmajaMaram/november_2025/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/PadmajaMaram/november_2025/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/PadmajaMaram/november_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/PadmajaMaram/november_2025/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PadmajaMaram/november_2025/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/PadmajaMaram/november_2025/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/PadmajaMaram/november_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PadmajaMaram/november_2025/tree/master/0387-first-unique-character-in-a-string) |
