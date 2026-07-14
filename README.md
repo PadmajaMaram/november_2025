@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PadmajaMaram/november_2025/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/PadmajaMaram/november_2025/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/PadmajaMaram/november_2025/tree/master/0435-non-overlapping-intervals) |
 | [0575-distribute-candies](https://github.com/PadmajaMaram/november_2025/tree/master/0575-distribute-candies) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/PadmajaMaram/november_2025/tree/master/0238-product-of-array-except-self) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3903-smallest-stable-index-i](https://github.com/PadmajaMaram/november_2025/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
