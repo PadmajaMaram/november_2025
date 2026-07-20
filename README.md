@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PadmajaMaram/november_2025/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PadmajaMaram/november_2025/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/PadmajaMaram/november_2025/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/PadmajaMaram/november_2025/tree/master/0374-guess-number-higher-or-lower) |
+| [0713-subarray-product-less-than-k](https://github.com/PadmajaMaram/november_2025/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PadmajaMaram/november_2025/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/PadmajaMaram/november_2025/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PadmajaMaram/november_2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PadmajaMaram/november_2025/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/PadmajaMaram/november_2025/tree/master/0713-subarray-product-less-than-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3903-smallest-stable-index-i](https://github.com/PadmajaMaram/november_2025/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
