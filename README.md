@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PadmajaMaram/november_2025/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/PadmajaMaram/november_2025/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/PadmajaMaram/november_2025/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/PadmajaMaram/november_2025/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PadmajaMaram/november_2025/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 ## Interactive
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/PadmajaMaram/november_2025/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/PadmajaMaram/november_2025/tree/master/0078-subsets) |
 ## Queue
 |  |
 | ------- |
