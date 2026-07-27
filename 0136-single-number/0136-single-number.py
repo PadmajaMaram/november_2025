@@ -1,21 +1,8 @@
-class Solution(object):
-    def singleNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        nums.sort()
-        i=0
-        while i<len(nums):
-            count=1
-            while i+1<len(nums) and nums[i]==nums[i+1]:
-                count+=1
-                i=i+1
-            if(count==1):
-                return nums[i]
-            i=i+1
-
-
-    
-                    
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        freq=Counter(nums)
+        for key,value in freq.items():
+            if value==1:
+                return key
+        
         
