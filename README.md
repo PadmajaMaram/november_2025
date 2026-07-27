@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PadmajaMaram/november_2025/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/PadmajaMaram/november_2025/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/PadmajaMaram/november_2025/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/PadmajaMaram/november_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/PadmajaMaram/november_2025/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/PadmajaMaram/november_2025/tree/master/0338-counting-bits) |
 ## Interactive
 |  |
 | ------- |
