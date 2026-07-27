@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PadmajaMaram/november_2025/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PadmajaMaram/november_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PadmajaMaram/november_2025/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PadmajaMaram/november_2025/tree/master/0209-minimum-size-subarray-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/PadmajaMaram/november_2025/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0137-single-number-ii) |
 ## Interactive
 |  |
 | ------- |
