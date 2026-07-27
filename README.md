@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/PadmajaMaram/november_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PadmajaMaram/november_2025/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PadmajaMaram/november_2025/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/PadmajaMaram/november_2025/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/november_2025/tree/master/0907-koko-eating-bananas) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PadmajaMaram/november_2025/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1652-defuse-the-bomb](https://github.com/PadmajaMaram/november_2025/tree/master/1652-defuse-the-bomb) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PadmajaMaram/november_2025/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PadmajaMaram/november_2025/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/PadmajaMaram/november_2025/tree/master/0735-asteroid-collision) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/PadmajaMaram/november_2025/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Sliding Window
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PadmajaMaram/november_2025/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/PadmajaMaram/november_2025/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PadmajaMaram/november_2025/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Prefix Sum
 |  |
