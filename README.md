@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PadmajaMaram/november_2025/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PadmajaMaram/november_2025/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PadmajaMaram/november_2025/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/PadmajaMaram/november_2025/tree/master/0191-number-of-1-bits) |
 ## Interactive
 |  |
 | ------- |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PadmajaMaram/november_2025/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/PadmajaMaram/november_2025/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
